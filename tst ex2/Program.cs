@@ -19,16 +19,6 @@ for (int i = 0; i != -1 || flag == true; i++)//temp++ |-old
     {
         flag = true;
     }
-    /*Console.WriteLine("\nInput -1 to stop");
-    temp = i;
-    i = int.Parse(Console.ReadLine());
-    while(i < -1)
-    {
-        Console.WriteLine("Error input a positive number or -1");
-        i = int.Parse(Console.ReadLine());
-    }
-    if (i == -1) { maxIndex = temp; }
-    */
     Console.Clear();
 }
 Console.Clear();
